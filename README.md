@@ -5,5 +5,5 @@ Di program ini akan terdapat 3 buah skenario, yaitu:
 1. Skenario Pertama, List peminjam terdepan  yang menunjuk ke list buku dengan menggunakan SLL.
 2. Skenario Kedua, List buku yang menunjuk ke list peminjam buku tersebut sekaligus ke buku selanjutnya dengan menggunakan SLL double pointer.
 3. Skenario Ketiga, Dimana daftar buku disimpan ke dalam array.
-      3.a. Daftar array terdapat tambahan pointer yang digunakan untuk menunjuk ke list peminjam
-      3.b. List peminjam terdepan menunjuk ke array buku
+3.a. Daftar array terdapat tambahan pointer yang digunakan untuk menunjuk ke list peminjam
+3.b. List peminjam terdepan menunjuk ke array buku
